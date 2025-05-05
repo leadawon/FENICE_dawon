@@ -1,0 +1,25 @@
+fenice_original_papersetting.json
+  Best Threshold (val): 0.9879
+  Val Balanced Accuracy: 0.7118
+  Test Balanced Accuracy: 0.7383
+
+fenice_wr0_wb1_wcc1_wc1_wm0_ww1_k1.json
+  Best Threshold (val): 0.9336
+  Val Balanced Accuracy: 0.7126
+  Test Balanced Accuracy: 0.7364
+
+fenice_original.json
+  Best Threshold (val): 0.9267
+  Val Balanced Accuracy: 0.7119
+  Test Balanced Accuracy: 0.7333
+
+fenice_RSB.json
+  Best Threshold (val): 0.9009
+  Val Balanced Accuracy: 0.7229
+  Test Balanced Accuracy: 0.7327
+
+fenice_original_fcoref.json
+  Best Threshold (val): 0.9319
+  Val Balanced Accuracy: 0.7106
+  Test Balanced Accuracy: 0.7314
+

@@ -1,0 +1,195 @@
+[fenice_wr0_wb1_wcc1_wc1_wm0p5_ww0p5_k1.json] Threshold from joint val: 0.9817 (Val BACC: 0.7398)
+  [CNN/DM Test Set]
+    accuracy: 0.8426
+    precision: 0.9313
+    recall: 0.8904
+    f1: 0.9104
+    balanced_accuracy: 0.6557
+  [XSum Test Set]
+    accuracy: 0.7401
+    precision: 0.7778
+    recall: 0.6877
+    f1: 0.7300
+    balanced_accuracy: 0.7413
+  ▶️ 평균 Balanced Accuracy: 0.6985
+
+[fenice_original_papersetting.json] Threshold from joint val: 0.9876 (Val BACC: 0.7486)
+  [CNN/DM Test Set]
+    accuracy: 0.8551
+    precision: 0.9287
+    recall: 0.9084
+    f1: 0.9184
+    balanced_accuracy: 0.6472
+  [XSum Test Set]
+    accuracy: 0.7366
+    precision: 0.7924
+    recall: 0.6561
+    f1: 0.7179
+    balanced_accuracy: 0.7383
+  ▶️ 평균 Balanced Accuracy: 0.6927
+
+[fenice_wr0p5_wb0p5_wcc1_wc1_wm0_ww1_k3.json] Threshold from joint val: 0.9939 (Val BACC: 0.7457)
+  [CNN/DM Test Set]
+    accuracy: 0.8390
+    precision: 0.9346
+    recall: 0.8825
+    f1: 0.9078
+    balanced_accuracy: 0.6693
+  [XSum Test Set]
+    accuracy: 0.7133
+    precision: 0.7907
+    recall: 0.5965
+    f1: 0.6800
+    balanced_accuracy: 0.7158
+  ▶️ 평균 Balanced Accuracy: 0.6926
+
+[fenice_wr0_wb1_wcc1_wc1_wm0_ww1_k1_ORCA.json] Threshold from joint val: 0.9962 (Val BACC: 0.7511)
+  [CNN/DM Test Set]
+    accuracy: 0.8873
+    precision: 0.9347
+    recall: 0.9402
+    f1: 0.9374
+    balanced_accuracy: 0.6806
+  [XSum Test Set]
+    accuracy: 0.6950
+    precision: 0.7758
+    recall: 0.5654
+    f1: 0.6541
+    balanced_accuracy: 0.6976
+  ▶️ 평균 Balanced Accuracy: 0.6891
+
+[fenice_wr1_wb0_wcc1_wc1_wm0_ww1_k1.json] Threshold from joint val: 0.9903 (Val BACC: 0.7509)
+  [CNN/DM Test Set]
+    accuracy: 0.8444
+    precision: 0.9278
+    recall: 0.8964
+    f1: 0.9119
+    balanced_accuracy: 0.6412
+  [XSum Test Set]
+    accuracy: 0.7348
+    precision: 0.7965
+    recall: 0.6456
+    f1: 0.7132
+    balanced_accuracy: 0.7367
+  ▶️ 평균 Balanced Accuracy: 0.6890
+
+[fenice_wr0p5_wb0p5_wcc1_wc1_wm0_ww1_k2.json] Threshold from joint val: 0.9940 (Val BACC: 0.7457)
+  [CNN/DM Test Set]
+    accuracy: 0.8372
+    precision: 0.9326
+    recall: 0.8825
+    f1: 0.9069
+    balanced_accuracy: 0.6605
+  [XSum Test Set]
+    accuracy: 0.7133
+    precision: 0.7854
+    recall: 0.6035
+    f1: 0.6825
+    balanced_accuracy: 0.7157
+  ▶️ 평균 Balanced Accuracy: 0.6881
+
+[fenice_wr0p3_wb0p7_wcc1_wc1_wm0_ww1_k1.json] Threshold from joint val: 0.9944 (Val BACC: 0.7501)
+  [CNN/DM Test Set]
+    accuracy: 0.8336
+    precision: 0.9323
+    recall: 0.8785
+    f1: 0.9046
+    balanced_accuracy: 0.6585
+  [XSum Test Set]
+    accuracy: 0.7115
+    precision: 0.7952
+    recall: 0.5860
+    f1: 0.6747
+    balanced_accuracy: 0.7142
+  ▶️ 평균 Balanced Accuracy: 0.6864
+
+[fenice_original.json] Threshold from joint val: 0.9928 (Val BACC: 0.7473)
+  [CNN/DM Test Set]
+    accuracy: 0.8050
+    precision: 0.9357
+    recall: 0.8406
+    f1: 0.8856
+    balanced_accuracy: 0.6659
+  [XSum Test Set]
+    accuracy: 0.7025
+    precision: 0.7960
+    recall: 0.5614
+    f1: 0.6584
+    balanced_accuracy: 0.7056
+  ▶️ 평균 Balanced Accuracy: 0.6858
+
+[fenice_wr0_wb1_wcc1_wc1_wm0_ww1_k1.json] Threshold from joint val: 0.9945 (Val BACC: 0.7482)
+  [CNN/DM Test Set]
+    accuracy: 0.8336
+    precision: 0.9323
+    recall: 0.8785
+    f1: 0.9046
+    balanced_accuracy: 0.6585
+  [XSum Test Set]
+    accuracy: 0.7061
+    precision: 0.7895
+    recall: 0.5789
+    f1: 0.6680
+    balanced_accuracy: 0.7089
+  ▶️ 평균 Balanced Accuracy: 0.6837
+
+[fenice_wr0p7_wb0p3_wcc1_wc1_wm0_ww1_k1.json] Threshold from joint val: 0.9944 (Val BACC: 0.7518)
+  [CNN/DM Test Set]
+    accuracy: 0.8336
+    precision: 0.9323
+    recall: 0.8785
+    f1: 0.9046
+    balanced_accuracy: 0.6585
+  [XSum Test Set]
+    accuracy: 0.7061
+    precision: 0.7895
+    recall: 0.5789
+    f1: 0.6680
+    balanced_accuracy: 0.7089
+  ▶️ 평균 Balanced Accuracy: 0.6837
+
+[fenice_RSB.json] Threshold from joint val: 0.9897 (Val BACC: 0.7506)
+  [CNN/DM Test Set]
+    accuracy: 0.8408
+    precision: 0.9311
+    recall: 0.8884
+    f1: 0.9093
+    balanced_accuracy: 0.6547
+  [XSum Test Set]
+    accuracy: 0.7079
+    precision: 0.7773
+    recall: 0.6000
+    f1: 0.6772
+    balanced_accuracy: 0.7103
+  ▶️ 평균 Balanced Accuracy: 0.6825
+
+[fenice_original_fcoref.json] Threshold from joint val: 0.9757 (Val BACC: 0.7463)
+  [CNN/DM Test Set]
+    accuracy: 0.8676
+    precision: 0.9213
+    recall: 0.9323
+    f1: 0.9267
+    balanced_accuracy: 0.6153
+  [XSum Test Set]
+    accuracy: 0.7419
+    precision: 0.7878
+    recall: 0.6772
+    f1: 0.7283
+    balanced_accuracy: 0.7434
+  ▶️ 평균 Balanced Accuracy: 0.6793
+
+[fenice_wr0_wb1_wcc0_wc1_wm0_ww1_k1.json] Threshold from joint val: 0.9945 (Val BACC: 0.7459)
+  [CNN/DM Test Set]
+    accuracy: 0.8283
+    precision: 0.9283
+    recall: 0.8765
+    f1: 0.9016
+    balanced_accuracy: 0.6400
+  [XSum Test Set]
+    accuracy: 0.7061
+    precision: 0.7895
+    recall: 0.5789
+    f1: 0.6680
+    balanced_accuracy: 0.7089
+  ▶️ 평균 Balanced Accuracy: 0.6744
+

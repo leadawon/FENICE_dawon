@@ -1,0 +1,140 @@
+File: fenice_wr0p5_wb0p5_wcc1_wc1_wm0_ww1_k3.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9965
+  Validation Strategy Score: 0.6316
+  Test Accuracy: 0.8140
+  Test Precision: 0.9442
+  Test Recall: 0.8426
+  Test F1 Score: 0.8905
+  Test Balanced Accuracy: 0.7020
+
+File: fenice_wr1_wb0_wcc1_wc1_wm0_ww1_k1.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9958
+  Validation Strategy Score: 0.6137
+  Test Accuracy: 0.8247
+  Test Precision: 0.9430
+  Test Recall: 0.8566
+  Test F1 Score: 0.8977
+  Test Balanced Accuracy: 0.7002
+
+File: fenice_wr0p7_wb0p3_wcc1_wc1_wm0_ww1_k1.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9957
+  Validation Strategy Score: 0.6149
+  Test Accuracy: 0.8247
+  Test Precision: 0.9410
+  Test Recall: 0.8586
+  Test F1 Score: 0.8979
+  Test Balanced Accuracy: 0.6924
+
+File: fenice_wr0p5_wb0p5_wcc1_wc1_wm0_ww1_k2.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9965
+  Validation Strategy Score: 0.6303
+  Test Accuracy: 0.8068
+  Test Precision: 0.9417
+  Test Recall: 0.8367
+  Test F1 Score: 0.8861
+  Test Balanced Accuracy: 0.6903
+
+File: fenice_original_fcoref.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9972
+  Validation Strategy Score: 0.6206
+  Test Accuracy: 0.6941
+  Test Precision: 0.9510
+  Test Recall: 0.6952
+  Test F1 Score: 0.8032
+  Test Balanced Accuracy: 0.6897
+
+File: fenice_wr0_wb1_wcc1_wc1_wm0_ww1_k1_ORCA.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9992
+  Validation Strategy Score: 0.6670
+  Test Accuracy: 0.6959
+  Test Precision: 0.9486
+  Test Recall: 0.6992
+  Test F1 Score: 0.8050
+  Test Balanced Accuracy: 0.6829
+
+File: fenice_wr0p3_wb0p7_wcc1_wc1_wm0_ww1_k1.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9957
+  Validation Strategy Score: 0.6149
+  Test Accuracy: 0.8211
+  Test Precision: 0.9389
+  Test Recall: 0.8566
+  Test F1 Score: 0.8958
+  Test Balanced Accuracy: 0.6827
+
+File: fenice_wr0_wb1_wcc1_wc1_wm0_ww1_k1.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9957
+  Validation Strategy Score: 0.6149
+  Test Accuracy: 0.8211
+  Test Precision: 0.9389
+  Test Recall: 0.8566
+  Test F1 Score: 0.8958
+  Test Balanced Accuracy: 0.6827
+
+File: fenice_wr0_wb1_wcc1_wc1_wm0p5_ww0p5_k1.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9924
+  Validation Strategy Score: 0.6137
+  Test Accuracy: 0.8122
+  Test Precision: 0.9382
+  Test Recall: 0.8466
+  Test F1 Score: 0.8901
+  Test Balanced Accuracy: 0.6777
+
+File: fenice_wr0_wb1_wcc0_wc1_wm0_ww1_k1.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9966
+  Validation Strategy Score: 0.6181
+  Test Accuracy: 0.8032
+  Test Precision: 0.9375
+  Test Recall: 0.8367
+  Test F1 Score: 0.8842
+  Test Balanced Accuracy: 0.6727
+
+File: fenice_original.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9957
+  Validation Strategy Score: 0.6320
+  Test Accuracy: 0.7442
+  Test Precision: 0.9410
+  Test Recall: 0.7629
+  Test F1 Score: 0.8427
+  Test Balanced Accuracy: 0.6709
+
+File: fenice_RSB.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9971
+  Validation Strategy Score: 0.6252
+  Test Accuracy: 0.7156
+  Test Precision: 0.9409
+  Test Recall: 0.7291
+  Test F1 Score: 0.8215
+  Test Balanced Accuracy: 0.6628
+
+File: fenice_original_papersetting.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9944
+  Validation Strategy Score: 0.6212
+  Test Accuracy: 0.8265
+  Test Precision: 0.9336
+  Test Recall: 0.8685
+  Test F1 Score: 0.8999
+  Test Balanced Accuracy: 0.6623
+
+File: fenice_wr0_wb1_wcc0_wc1_wm0p5_ww0p5_k1.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9983
+  Validation Strategy Score: 0.6229
+  Test Accuracy: 0.5152
+  Test Precision: 0.9425
+  Test Recall: 0.4900
+  Test F1 Score: 0.6448
+  Test Balanced Accuracy: 0.6134
+

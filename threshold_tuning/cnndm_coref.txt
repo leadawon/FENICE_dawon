@@ -1,0 +1,70 @@
+File: fenice_wr0p3_wb0p7_wcc1_wc1_wm1_ww0_k2.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9872
+  Validation Strategy Score: 0.6604
+  Test Accuracy: 0.7549
+  Test Precision: 0.9529
+  Test Recall: 0.7649
+  Test F1 Score: 0.8486
+  Test Balanced Accuracy: 0.7158
+
+File: fenice_wr0_wb1_wcc0_wc1_wm1_ww0_k2.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9872
+  Validation Strategy Score: 0.6591
+  Test Accuracy: 0.7621
+  Test Precision: 0.9511
+  Test Recall: 0.7749
+  Test F1 Score: 0.8540
+  Test Balanced Accuracy: 0.7120
+
+File: fenice_wr0p3_wb0p7_wcc0_wc1_wm1_ww0_k2.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9872
+  Validation Strategy Score: 0.6604
+  Test Accuracy: 0.7549
+  Test Precision: 0.9506
+  Test Recall: 0.7669
+  Test F1 Score: 0.8490
+  Test Balanced Accuracy: 0.7080
+
+File: fenice_wr0p3_wb0p7_wcc0_wc1_wm0_ww1_k2.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9962
+  Validation Strategy Score: 0.6733
+  Test Accuracy: 0.7191
+  Test Precision: 0.9528
+  Test Recall: 0.7231
+  Test F1 Score: 0.8222
+  Test Balanced Accuracy: 0.7037
+
+File: fenice_wr0p3_wb0p7_wcc0_wc1_wm1_ww0_k3.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9872
+  Validation Strategy Score: 0.6726
+  Test Accuracy: 0.7603
+  Test Precision: 0.9488
+  Test Recall: 0.7749
+  Test F1 Score: 0.8531
+  Test Balanced Accuracy: 0.7032
+
+File: fenice_wr0_wb1_wcc1_wc1_wm0_ww1_k1.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9964
+  Validation Strategy Score: 0.6708
+  Test Accuracy: 0.7281
+  Test Precision: 0.9510
+  Test Recall: 0.7351
+  Test F1 Score: 0.8292
+  Test Balanced Accuracy: 0.7009
+
+File: fenice_original.json
+Strategy: Balanced Accuracy (val score 기반)
+  Threshold (from val set): 0.9966
+  Validation Strategy Score: 0.6450
+  Test Accuracy: 0.5886
+  Test Precision: 0.9533
+  Test Recall: 0.5697
+  Test F1 Score: 0.7132
+  Test Balanced Accuracy: 0.6621
+
